@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM App</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="_0">0</string>
+    <string name="loading">Loading...</string>
+    <string name="image">IMAGE</string>
+</resources>
